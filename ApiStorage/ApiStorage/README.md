@@ -1,6 +1,6 @@
 # SpringBoot-Postgres-Minio
 
-<img src="ApiStorage/screenshots/springboot_stroge"  alt="SpringBoot Storage" " width="800" height="300">
+<img src="screenshots/springboot_stroge.png"  alt="SpringBoot Storage" " width="800" height="300">
 
 ### 📖 Information
 
