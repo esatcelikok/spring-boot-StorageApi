@@ -1,6 +1,7 @@
 # SpringBoot-Postgres-Minio
 
-<img src="screenshots/springboot_stroge.png"  alt="SpringBoot Storage" " width="800" height="300">
+<img src="screenshots/springboot_stroge.png" alt="SpringBoot Storage" width="800" height="300">
+
 
 ### 📖 Information
 
@@ -99,15 +100,15 @@
 <details>
 <summary>Click here to show the screenshots of project</summary>
     <p> Figure 1 </p>
-    <img src ="screenshots/screenshot_1.PNG">
+    <img src ="screenshots/screenshoot_1.png">
     <p> Figure 2 </p>
-    <img src ="screenshots/screenshot_2.PNG">
+    <img src ="screenshots/screenshot_2.png">
     <p> Figure 3 </p>
-    <img src ="screenshots/screenshot_3.PNG">
+    <img src ="screenshots/screenshot_3.png">
     <p> Figure 4 </p>
-    <img src ="screenshots/screenshot_4.PNG">
+    <img src ="screenshots/screenshot_4.png">
     <p> Figure 5 </p>
-    <img src ="screenshots/screenshot_5.PNG">
+    <img src ="screenshots/screenshot_5.png">
     <p> Figure 6 </p>
-    <img src ="screenshots/screenshot_6.PNG">
+    <img src ="screenshots/screenshot_6.png">
 </details>
